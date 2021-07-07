@@ -50,5 +50,10 @@ div{
   }
 #foot {
   text-align: center;}
+#ft{
+  background-image: url(Images/footer.jpeg);
+  height: 50px;
+  color: bisque;
+}
 
 
