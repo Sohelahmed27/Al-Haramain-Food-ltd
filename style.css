@@ -1,0 +1,61 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+h1{
+  font-size: 45px;
+}
+h3{
+  font-size: 25px;
+}
+span{
+  color: orange;
+}
+.al{
+  width: 50%;
+  padding: 20px;
+  border-left: 40px;
+  border-right:30px;
+  
+}
+section{
+  display: flex;
+}
+.button {
+  border: none;
+  background-color: orange;
+  padding: 5px 5px;
+  color:seashell;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: 300;
+}
+.rose{
+  margin-bottom: 50px;
+}
+div{ 
+  margin: 120px
+}
+.banner{
+  background-image: url(Images/Frame\ 58.jpg);
+  background-repeat: no-repeat;
+  border:0%;}
+#food{
+   text-align: justify;
+}
+.fle1{
+  width:350px;
+  background-color:bisque;
+  font-size: 20px;
+  image-resolution: 20px;
+  margin: 10px;
+  padding: 5px;}
+#container{
+  display: flex;
+  background-color: cornsilk;
+  justify-content: space-between;
+  }
+#foot {
+  text-align: center;
+}
+
+
